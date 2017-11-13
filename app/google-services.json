@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444918315637",
+    "firebase_url": "https://sparkapp-d3e61.firebaseio.com",
+    "project_id": "sparkapp-d3e61",
+    "storage_bucket": "sparkapp-d3e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444918315637:android:2a68dea42bfbc393",
+        "android_client_info": {
+          "package_name": "chatapp.overload.com.sparkchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444918315637-2onjo4qfuv5phcuak51lsl04gtvbnqkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3eK5grNj38vZL_xjp5HNaDUsNIFwOMwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
